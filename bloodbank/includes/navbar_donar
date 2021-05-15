@@ -1,0 +1,16 @@
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">WELCOME : ADMIN</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li><a href="login.php">MANAGE BLOOD BANK</a></li>
+      <li><a href="reg.php">MANAGE DONOR</a></li>
+      <li><a href="#">MANAGE PATIENT REQUEST</a></li>
+      <li><a href="#">VEIW FEEDBACK</a></li>
+      <li><a href="#">MANAGE CITY</a></li>
+      <li><a href="#">MANAGE QUERY</a></li>
+    </ul>
+  </div>
+</nav>
